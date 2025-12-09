@@ -1,0 +1,6 @@
+google-colab
+jupyter
+matplotlib
+pandas
+seaborn
+vaderSentiment
